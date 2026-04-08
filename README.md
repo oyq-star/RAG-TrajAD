@@ -1,2 +1,0 @@
-# RAG-TrajAD
-RAG-TrajAD
