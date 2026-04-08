@@ -159,19 +159,6 @@ RAG-TrajAD/
     └── run_baselines.py   # Baseline runner script
 ```
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{ragtrajad2026,
-  title={RAG-TrajAD: Retrieval-Augmented Cross-Domain Trajectory Anomaly Detection},
-  author={Anonymous},
-  booktitle={International Conference on Wireless Algorithms, Systems, and Applications (WASA)},
-  year={2026}
-}
-```
-
 ## License
 
 This project is released under the MIT License.
